@@ -6,6 +6,6 @@ Data -- Link to the different data collected for the project and  used in the mo
 
 EDA -- Links to notebooks done by myself and others, to explore the data
 
-Modeling -- Links to modeling for malaraia outbreak
+Modeling -- Links to modeling for malaraia outbreak predictor
 
 
